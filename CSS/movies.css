@@ -16,6 +16,7 @@
 }
 body{
 		margin:10px;
+		background-image: url(../IMAGES/thumb-1920-361914.jpg)
 	}
 .container{
 		
@@ -29,7 +30,7 @@ body{
 	z-index:1;
 	background-color:#FFF;
 	position:fixed;
-	height:60px;
+	height:80px;
 	width:100%;
 	opacity:0.7;
 	border-bottom:1px solid #FFF;
@@ -44,8 +45,8 @@ body{
 	
 	}
 .nav ul{
-		padding:0;
-		margin:0;
+		padding:10px;
+		margin:10px;
 		margin-top:20px;
 		vertical-align:middle;
 		list-style:none;
@@ -74,7 +75,7 @@ body{
 	z-index:1;
 	position:fixed;
 	z-index:1;
-	top:71px;
+	top:91px;
 	width:15%;
 	background-color:#CCC;
 	height:100%;
@@ -129,10 +130,9 @@ body{
 	}
 .content{
 		position:absolute;
-		top:80px;
+		top:120px;
 		width:85%;
 		height:100%;
-		
 		left:15%;
 	
 	}
@@ -161,130 +161,131 @@ body{
 	}
 .box1{
 	
-	background-image:url(../PICS/GCARDS/a1.png);
+	background-image:url(../IMAGES/movies/a1.jpg);
 	
 	}
 .box2{
 	
-	background-image:url(../PICS/GCARDS/a2.png);
+	background-image:url(../IMAGES/movies/a2.jpg);
 	
 	}
 .box3{
 	
-	background-image:url(../PICS/GCARDS/aca1.png);
+	background-image:url(../IMAGES/movies/aca1.jpg);
 	
 	}
 .box4{
 	
-	background-image:url(../PICS/GCARDS/aca2.png);
+	background-image:url(../IMAGES/movies/aca2.jpg);
 	
 	}
 .box5{
 
-	background-image:url(../PICS/GCARDS/aca3.png);
+	background-image:url(../IMAGES/movies/aca3.jpg);
 	
 	}
 .box6{
 
-	background-image:url(../PICS/GCARDS/aca4.png);
+	background-image:url(../IMAGES/movies/aca4.jpg);
 
 	
 	}
 .box7{
 
-	background-image:url(../PICS/GCARDS/ad1.png);
+	background-image:url(../IMAGES/movies/ad1.jpg);
 	
 	}
+
 .box8{
 
-	background-image:url(../PICS/GCARDS/ad2.png);
+	background-image:url(../IMAGES/movies/ad2.jpg);
 	
 }
 .box9{
 	
-	background-image:url(../PICS/GCARDS/aca3.png);
+	background-image:url(../IMAGES/movies/aca3.jpg);
 	
 	}
 .box10{
 	
-	background-image:url(../PICS/GCARDS/shooting1.png);
+	background-image:url(../IMAGES/movies/shooting1.jpg);
 	
 	}
 .box11{
 	
-	background-image:url(../PICS/GCARDS/shooting2.png);
+	background-image:url(../IMAGES/movies/shooting2.jpg);
 	
 	}
 .box12{
 	
-	background-image:url(../PICS/GCARDS/ad4.png);
+	background-image:url(../IMAGES/movies/ad4.jpg);
 	
 	}
 .box13{
 
-	background-image:url(../PICS/GCARDS/a3.png);
+	background-image:url(../IMAGES/movies/a3.jpg);
 	
 	}
 .box14{
 
-	background-image:url(../PICS/GCARDS/a4.png);
+	background-image:url(../IMAGES/movies/a4.jpg);
 
 	
 	}
 .box15{
 
-	background-image:url(../PICS/GCARDS/a5.png);
+	background-image:url(../IMAGES/movies/a5.jpg);
 	
 	}
 .box16{
 
-	background-image:url(../PICS/GCARDS/shooting3.png);
+	background-image:url(../IMAGES/movies/shooting3.jpg);
 	
 }
 .box17{
 	
-	background-image:url(../PICS/GCARDS/stat2.png)
+	background-image:url(../IMAGES/movies/stat2.jpg)
 	
 	}
 .box18{
 
-	background-image:url(../PICS/GCARDS/shooting4.png);
+	background-image:url(../IMAGES/movies/shooting4.jpg);
 	
 	}
 .box19{
 
-	background-image:url(../PICS/GCARDS/shooting5.png);
+	background-image:url(../IMAGES/movies/shooting5.jpg);
 
 	
 	}
 .box20{
 
-	background-image:url(../PICS/GCARDS/shooting6.png);
+	background-image:url(../IMAGES/movies/shooting6.jpg);
 	
 	}
 .box21{
 
-	background-image:url(../PICS/GCARDS/shooting7.png);
+	background-image:url(../IMAGES/movies/shooting7.jpg);
 	
 }
 .box22{
 
-	background-image:url(../PICS/GCARDS/shooting8.png);
+	background-image:url(../IMAGES/movies/shooting8.jpg);
 	
 }
 .box23{
 
-	background-image:url(../PICS/GCARDS/shooting9.png);
+	background-image:url(../IMAGES/movies/shooting9.jpg);
 	
 }
 .box24{
 
-	background-image:url(../PICS/GCARDS/shooting10.png);
+	background-image:url(../IMAGES/movies/shooting10.jpg);
 	
 }
 .box25{
 
-	background-image:url(../PICS/GCARDS/stat3.png);
+	background-image:url(../IMAGES/movies/stat3.jpg);
 	
 }
 
@@ -296,7 +297,7 @@ body{
 
 
 .genere{
-	height:70px;
+	height:50px;
 	font-family:"battlefieldv4";
 	font-size:24px;
 	text-align:center;

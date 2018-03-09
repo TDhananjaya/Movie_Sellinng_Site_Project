@@ -12,6 +12,7 @@
 
 body{
 		margin:10px;
+		background-image: url(../IMAGES/thumb-1920-361914.jpg)
 	}
 	
 .container{
@@ -65,7 +66,7 @@ body{
 		color:#F00;
 	}
 .detail{
-	height:150px;
+	height:100px;
 	font-family:"battlefieldv4";
 	   font-size:24px;
 	   text-align:center;
@@ -142,16 +143,16 @@ body{
 	background-repeat: no-repeat;
 	
 	}
-.ps4{
+.yts{
 
-	background-image:url(../IMAGES/SOCIALMEDIAICONS/ps4Rect.png);
+	background-image:url(../IMAGES/SOCIALMEDIAICONS/pcmweb_yts-logo-largest.jpg);
 	background-size:100% 100%;
 	background-repeat: no-repeat;
 	
 	}
-.xbox{
+.torrent_LLsTCZo{
 
-	background-image:url(../IMAGES/SOCIALMEDIAICONS/xboxRect.png);
+	background-image:url(../IMAGES/SOCIALMEDIAICONS/torrent_LLsTCZo.jpg);
 	background-size:100% 100%;
 	background-repeat: no-repeat;
 	

@@ -27,7 +27,7 @@
 	height: auto;
 	background-image: url(../IMAGES/1605210.jpg);
 	background-size: cover;
-	-webkit-filter: blur(0px)
+	-webkit-filter: blur(0px);
 	
 	
 }
@@ -43,7 +43,7 @@
 		list-style:none;
 	
 	}
-.nav ul li a{
+	.nav ul li a{
 		margin-left:10px;
 		color:#000;
 		font-weight:600;;
@@ -150,11 +150,11 @@
 	float:left;
 	
 	}
-.nav ul li a span{
+	.nav ul li a span{
 		color:#F00;
 	}
 
-.login input[type=button]:hover{
+	.login input[type=button]:hover{
 	opacity: 0.8;
 }
 
