@@ -1,0 +1,269 @@
+
+@font-face
+{
+ font-family:CRYSISB;
+ src: url(../FONTS/CRYSISB.ttf);
+
+}
+@font-face
+{
+ font-family:Akashi;
+ src: url(../FONTS/Akashi.ttf)
+}
+
+body{
+    margin:10px;
+     background-image: url(../IMAGES/small_sea_wave_hdtv_1080p-HD.jpg);
+    
+	}
+.footer{
+	position:relative;
+	height:100px;
+	top:200px;
+	background:#333;
+	}
+.container-nav{
+	
+
+	z-index:1;
+	background-color:#FFF;
+	position:fixed;
+	height:80px;
+	width:100%;
+	opacity:0.7;
+	border-bottom:1px solid #FFF;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+	
+
+	
+	}
+.container{
+		
+		height:auto;
+		
+		
+	}
+	.logos{
+		
+			position:relative;
+			float:right;
+			border:1px solid #096;
+			background:#093;
+			width:100%;
+			height:30px;
+        }
+        
+.footer div{
+
+    z-index:1;
+	background-color:#FFF;
+	position:fixed;
+	height:80px;
+	width:100%;
+	opacity:0.7;
+	border-bottom:1px solid #FFF;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+}
+
+.container-text{
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+}
+
+
+
+
+
+
+
+	.container-nav a:hover{
+	color:#090;
+	
+	}
+.container-nav ul{
+		padding:10px;
+		margin:10px;
+		margin-top:20px;
+		vertical-align:middle;
+		list-style:none;
+	
+    }
+    
+    
+.container-nav ul li a{
+		margin-left:10px;
+		color:#000;
+		font-weight:600;;
+		display:inline;
+		text-decoration:none;
+		font-family:Akashi;
+		font-size:23px;
+		
+		transition:0.17s;
+    }
+    
+ .container-nav ul li{
+     float: left;
+ }   
+	
+.container-box{
+	overflow:hidden;
+	position:relative;
+	top:100px;
+	width:100%;
+
+	
+	height:700px;
+	
+	}
+.slider{
+	position:relative;
+	
+	width:400%;
+	
+	height:200%;
+	
+	animation-name:slide;
+	
+	animation-duration:11s;
+	animation-timing-function: cubic-bezier(.21,.66,.23,.2);
+	animation-iteration-count:infinite;
+	}
+.picture{
+	
+		
+		position:relative;
+		float:left;
+		width:25%;
+		background-image:url(../IMAGES/945359.jpg);
+		background-size:100% 600px;
+		background-repeat: no-repeat;
+		height:660px;
+		
+		
+		
+	}
+.pictureTwo{
+		float:left;
+		position:relative;
+		width:25%;
+		background-image:url(../IMAGES/2014-Rio-2-Wallpaper-design-by-desigbolts1.jpg);
+		background-size:100% 600px;
+		background-repeat: no-repeat;
+		height:600px;
+		
+		
+	}
+.pictureThree{
+		
+		position:relative;
+		width:25%;
+		float:left;
+		background-image:url(../IMAGES/furious-6.jpg);
+		background-size:100% 600px;
+		background-repeat: no-repeat;
+		height:600px;
+		
+		
+	}
+.pictureFour{
+	
+		
+		position:relative;
+		float:left;
+		width:25%;
+		background-image:url(../IMAGES/945359.jpg);
+		background-size:100% 600px;
+		background-repeat: no-repeat;
+		height:600px;
+		
+		
+		
+	}
+
+	
+	.pbtn{
+		border:1px transparent;
+		position:relative;
+		top:65%;
+		left:39%;
+		right:auto;
+		width:20%;
+		height:30px;
+		background-color:#C00;
+		color:#FFF;
+		font-size:24px;
+		text-align:center;
+		padding:10px;
+		transition:1s;
+		opacity:0.8;		
+	}		
+	.obtn{
+		border:1px transparent;
+		position:relative;
+		top:65%;
+		left:39%;
+		right:auto;
+		width:20%;
+		height:30px;
+		background-color:#C00;
+		color:#FFF;
+		font-size:24px;
+		text-align:center;
+		padding:10px;
+		transition:1s;
+		opacity:0.8;	
+	}
+.pbtn:hover{
+		
+		opacity:1;
+		cursor:pointer;
+	
+		
+		}
+.obtn:hover{
+		
+		opacity:1;
+		cursor:pointer;
+	
+		
+		}
+	
+.container-nav ul li{
+	float:left;
+	
+}
+.an{
+	background:#060;
+	}
+.an0{
+	background:#FF9900;
+
+	}
+.container-nav ul li a span{
+		color:#F00;
+	}
+@keyframes slide{
+	0%{left:0%;}
+	30%{left:0%;}
+	35%{left:-100%;}
+	50%{left:-100%;}
+	55%{left:-200%;}
+	80%{left:-200%;}
+	85%{left:-300%;}
+    }
+    
+
+    .social-media-list{
+
+        list-style: none;
+
+    }
+
+    .social-media-list li{
+
+        display: inline;
+    }    
